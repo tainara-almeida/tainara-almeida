@@ -7,7 +7,7 @@
 ## About me 
 
 
-I'm a systems analysis and development student and currently work at picpay as a product engineer. I have been studying Kubernetes to deepen my knowledge.
+I'm a systems analysis and development student and currently work at Google Cloud as a Custumer engineer. I have been studying Kubernetes to deepen my knowlede.
 
 Between one command and another, I like to share knowledge, showing that difficult things are not impossible. I help people who are starting to study infrastructure, teaching IAC and Python in their spare time, seeking the rise of the periphery through technology.
 
